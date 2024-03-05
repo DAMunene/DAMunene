@@ -10,3 +10,4 @@
 DAMunene/DAMunene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![bi](https://github.com/DAMunene/DAMunene/assets/150794801/ed308648-ac77-43c4-9f4a-0c52a3a5f976)
