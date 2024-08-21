@@ -36,9 +36,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DAMunene/DAMunene/output/snake.svg" alt="Snake animation" />
-
-###
-
-###
-
