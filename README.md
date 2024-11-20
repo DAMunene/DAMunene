@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mofat Muriuki, a Backend Developer with the Django Framework. </h2>
+<h2 align="left">Hi 👋! My name is Mofat Muriuki, a FullStack Developer. Django RestFramework and ReactJS. </h2>
 
 ###
 <h2 align="left"> I code in:
