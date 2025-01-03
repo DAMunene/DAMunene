@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mofat Muriuki, a FullStack Engineer. Django RestFramework and NextJS. </h2>
+<h2 align="left">Hi 👋! My name is Mofat Muriuki, a FullStack Engineer. Django Rest and NextJS. </h2>
 
 ###
 <h2 align="left"> I code in:
