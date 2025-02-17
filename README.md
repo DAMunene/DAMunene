@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mofat Muriuki, a FullStack Engineer.Proficient in Python/Django and familiar with NextJs and ReactJs. </h2>
+<h2 align="left">Hi 👋! My name is Mofat Muriuki, a FullStack Engineer. Proficient in Python/Django and familiar with NextJs and ReactJs. </h2>
 
 ###
 <h3 align="left"> Programming languages:
