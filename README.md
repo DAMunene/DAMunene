@@ -56,7 +56,7 @@
 <h3 align="left"> Github Stats:
   
 ###
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=DAMunene&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
