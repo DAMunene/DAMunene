@@ -1,4 +1,4 @@
-<h2 align="left">My name is Munene Muriuki. Proficient in Python and familiar with NextJs. </h2>
+
 
 ###
 <h3 align="left"> Programming languages:
