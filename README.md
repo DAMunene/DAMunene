@@ -1,5 +1,5 @@
 ###
-<h2> My name is Munene Muriuki. A Backend Engineer - Python with rich experience in Cloud Computing☁️</h2>
+<h2> My name is Munene Muriuki. A Backend Engineer - Python with rich experience in Cloud Computing☁..</h2>
 <h4>Here is  a little bit about me: </h4>
 <h5>I write Python as a hobby☺️</h5>
 <h5>I am currently learning TypeScript🌱</h5>
