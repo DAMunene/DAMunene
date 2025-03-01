@@ -3,6 +3,7 @@
 <h4>Here is  a little bit about me: </h4>
 <h5>I write Python as a hobby☺️</h5>
 <h5>I am currently learning TypeScript🌱</h5>
+<h5>I play billiards during my free time🥢</h5>
 
 ###
 <h3 align="left"> Programming languages:
