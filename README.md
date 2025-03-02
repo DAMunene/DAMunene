@@ -4,7 +4,7 @@
 <h5>I write Python as a hobby☺️</h5>
 <h5>I am currently learning TypeScript🌱</h5>
 <h5>I play billiards during my free time🥢</h5>
-<h5>Let's connect and make the world a better place!</h5>
+<h5>Let's connect and make the world a better place!🌍</h5>
 
 ###
 <h3 align="left"> Programming languages:
