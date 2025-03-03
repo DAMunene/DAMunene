@@ -1,6 +1,7 @@
 ###
 <h2> My name is Munene Muriuki. A Backend Engineer with rich experience in Cloud Computing☁..</h2>
 <h4>Here is a little bit about me: </h4>
+<h4>Writing Python, the PEP8 standard </h4>
 <h5>Learning TypeScript, one syntax at a time🌱</h5>
 <h5>I play billiards sometimes with the team🥢</h5>
 <h5>Let's connect and make the world a better place!🌍</h5>
