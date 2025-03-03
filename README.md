@@ -2,7 +2,7 @@
 <h2> My name is Munene Muriuki. A Backend Engineer - Python with rich experience in Cloud Computing☁..</h2>
 <h4>Here is  a little bit about me: </h4>
 <h5>I use Python for my daily tasks☺️</h5>
-<h5>Currently, I am learning TypeScript🌱</h5>
+<h5>Learning TypeScript one syntax at a time🌱</h5>
 <h5>I play the billiards board game sometimes🥢</h5>
 <h5>Let's connect and make the world a better place!🌍</h5>
 
