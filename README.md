@@ -5,7 +5,6 @@
 <h5>Learning TypeScript, one syntax at a time🌱</h5>
 <h5>I play billiards sometimes with the team🥢</h5>
 <h5>Let's connect and make the world a better place!🌍</h5>
-<h5>Mention any product, have the money ready to purchase it!</h5>
 
 ###
 <h3 align="left"> Programming languages:
