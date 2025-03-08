@@ -6,7 +6,6 @@
 <h5>Playing billiards game as a hobby🥢</h5>
 <h5>Calling Nairobi, Kenya my home..</h5>
 
-
 ###
 <h3 align="left"> Programming languages:
 
