@@ -4,7 +4,7 @@
 <h5>Writing Python, the PEP8 standard way</h5>
 <h5>Learning TypeScript, one syntax at a time🌱</h5>
 <h5>Calling Nairobi, Kenya my home</h5>
-<h5>Founder</h5>
+<h5>Founder Aurae </h5>
 
 ###
 <h3 align="left"> Programming languages:
