@@ -13,8 +13,6 @@ You can add a dynamic card that displays your GitHub activity. This visually dem
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAMunene&layout=compact&theme=radical)
 
-*Note: Replace `YOUR_GITHUB_USERNAME` with your actual username. You can also customize the theme.*
-
 <br>
 
 ---
