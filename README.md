@@ -15,6 +15,20 @@ I am currently seeking a remote role where I can apply my skills in AI/ML, cloud
 
 <br>
 
+### My Tech Stack
+
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Programming Languages** | `Python` `TypeScript` `SQL` |
+| **Back-End & API** | `RESTful API Design` `Django` `FastAPI` `Microservices` |
+| **AI/ML** | `LLM integrations` `Hugging Face Transformers` `LangChain` `Pinecone` `FAISS` |
+| **Databases** | `PostgreSQL` `MySQL` `Vector DBs` |
+| **Cloud & DevOps** | `Azure` `AWS` `Docker` `Kubernetes` `Git` `GitHub Actions` `Jira` |
+
+<br>
+
+<br>
+
 ### GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAMunene&layout=compact&theme=radical)
