@@ -5,5 +5,6 @@
 <h5>Learning TypeScript, one syntax at a time🌱</h5>
 <h5>Calling Nairobi, Kenya my home</h5>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DAMunene&show_icons=true&theme=radical)
 
 
