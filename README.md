@@ -19,7 +19,7 @@ I am currently seeking a remote role where I can apply my skills in AI/ML, cloud
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Programming Languages** | `Python` `TypeScript` `SQL` |
+| **Programming Languages** | `Python` `TypeScript` `SQL` `Rust` |
 | **Back-End & API** | `RESTful API Design` `Django` `FastAPI` `Microservices` |
 | **AI/ML** | `LLM integrations` `Hugging Face Transformers` `LangChain` `Pinecone` `FAISS` |
 | **Databases** | `PostgreSQL` `MySQL` `Vector DBs` |
