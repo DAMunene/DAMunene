@@ -1,47 +1,15 @@
-# Hi there 👋, I'm Mofat Munene!
+# 💫 About Me:
+🔭 I’m currently working on Rust<br>👯 I’m looking to collaborate on Rust<br>🤝 I’m looking for help with Rust<br>🌱 I’m currently learning Rust<br>💬 Ask me about Rust<br>⚡ Fun fact: I love Rust
 
-### About Me
 
-I'm a Generative AI and Back-End Engineer with over 3 years of experience in Python. My journey from a retail cashier to an AI Tech Lead in just a few years is a testament to my passion for technology, continuous learning, and problem-solving.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mofat06) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iamnene13) 
 
-I specialize in designing and building scalable, API-first solutions, with a strong focus on AI-driven applications and machine learning pipelines. I thrive on solving complex challenges and am always eager to learn new technologies that can deliver a tangible impact.
+# 💻 Tech Stack:
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DAMunene&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DAMunene&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DAMunene&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I am currently seeking a remote role where I can apply my skills in AI/ML, cloud platforms (Azure, AWS), and collaborative development to build innovative solutions for global challenges.
-
-* 🔭 I’m currently working on: Building and fine-tuning Retrieval-Augmented Generation (RAG) pipelines for a new set of business challenges.
-* 🌱 I’m currently learning: Advanced concepts in MLOps and cloud-native AI infrastructure.
-* 💬 Ask me about: Python, Django, FastAPI, LLM integrations, or anything related to building scalable back-end and AI systems.
-* 📫 How to reach me: You can find my contact information on my [LinkedIn Profile](https://linkedin.com/in/mofat06).
-
-<br>
-
-### My Tech Stack
-
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Programming Languages** | `Python` `TypeScript` `SQL` `Rust` |
-| **Back-End & API** | `RESTful API Design` `Django` `FastAPI` `Microservices` |
-| **AI/ML** | `LLM integrations` `Hugging Face Transformers` `LangChain` `Pinecone` `FAISS` |
-| **Databases** | `PostgreSQL` `MySQL` `Vector DBs` |
-| **Cloud & DevOps** | `Azure` `AWS` `Docker` `Kubernetes` `Git` `GitHub Actions` `Jira` |
-
-<br>
-
-<br>
-
-### GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAMunene&layout=compact&theme=radical)
-
-<br>
-
----
-<div align="center">
-  <p> Let's connect and build something great! </p>
-  <a href="https://linkedin.com/in/mofat06">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:muriukimoff6@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
