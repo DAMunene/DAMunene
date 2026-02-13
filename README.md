@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Rust<br>👯 I’m looking to collaborate on Rust<br>🤝 I’m looking for help with Rust<br>🌱 I’m currently learning Rust<br>💬 Ask me about Rust<br>⚡ Fun fact: I love Rust
+🌱 I’m currently learning Application Security<br>
 
 
 ## 🌐 Socials:
