@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Application Security<br>
+🌱 I’m currently learning Infra & Application Security<br>
 
 
 ## 🌐 Socials:
